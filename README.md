@@ -1,2 +1,2 @@
-# CS-361-
+# CS-361
 assignment 1
